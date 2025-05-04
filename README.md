@@ -37,7 +37,7 @@ cifar10_gpu_classifier.ipynb  # Google Colab notebook (recommended)
 
 ## 🏗️ Project Architecture
 
-```mermaid
+``mermaid
 graph TD
     A[Input Images] --> B[Data Loader]
     B --> C[GPU Preprocessing]
@@ -45,7 +45,7 @@ graph TD
     D --> E[Dropout Regularization]
     E --> F[Fully Connected Layers]
     F --> G[Prediction Visualization]
-```
+``
 
 ## 🚀 Getting Started
 
